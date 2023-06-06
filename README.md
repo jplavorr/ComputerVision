@@ -1,4 +1,13 @@
 # Computer Vision Projects Repository
+
+[![author](https://img.shields.io/badge/author-jplavorr-black.svg)](https://www.linkedin.com/in/joão-pedro-lavor-65162312b/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)  [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/jplavorr)
+
+
+<p align="center">
+  <img src= "microsoft.webp" >
+</p>
+
+
 Welcome to my Computer Vision Projects repository! This is a comprehensive collection of various projects that I've undertaken in the field of computer vision, exploring a range of technologies, tools, and techniques.
 
 # About
